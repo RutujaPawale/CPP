@@ -1,1 +1,1 @@
-
+Implement a priority queue in C++ using STL list and template class. Explain how insertion is done based on priority, how dequeue works, and discuss how operator overloading is used in your program. Also, describe the display() function and how the priority order is maintained.
