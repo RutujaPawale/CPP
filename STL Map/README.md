@@ -1,1 +1,1 @@
-
+Write a C++ program using STL map container to store the names of states as keys and their populations as values. Allow the user to search for a state by name using find() function and display its population if present. If the state does not exist, display an appropriate message. Explain how map stores data in key-value pairs and how search operation is performed using iterators.
