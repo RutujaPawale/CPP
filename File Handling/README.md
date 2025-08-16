@@ -1,1 +1,1 @@
-
+Write a C++ program to demonstrate file handling operations using ofstream and ifstream. Accept data from the user and write it into a text file using ofstream, then read and display the content of the file using ifstream. Explain how file is opened in append mode, and how to check if file has been opened successfully
