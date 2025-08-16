@@ -1,1 +1,1 @@
-
+Write a C++ program using single inheritance where class Publication is base class and classes Book and Tape are derived classes. Include appropriate constructors and methods to accept and display data. Implement exception handling such that if the user enters a negative price, pages, or time, an exception is thrown and all values are reset to default. Explain the use of exception handling in this program.
